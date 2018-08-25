@@ -55,3 +55,31 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+/*Begin Custom */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Merriweather', serif;
+}
+
+.header {
+  color: white !important;
+}
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
