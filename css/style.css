@@ -83,3 +83,11 @@ h5 {
    top: 0;
    width: 100%;
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: fuchsia;
+}
