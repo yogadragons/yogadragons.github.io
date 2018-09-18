@@ -84,14 +84,13 @@ a:hover {
 }
 
 #mc_embed_signup {
-  background: #fff;
+  /* background: #fff; */
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
 }
 
 input#mce-EMAIL {
   margin: 0 !important;
-  width: 60%;
 }
 
 /* .connect {
@@ -115,3 +114,8 @@ input#mce-EMAIL {
 .jared:hover {
   color: white !important;
 }
+
+/* footer,
+.page-footer {
+  background-color: silver;
+} */
