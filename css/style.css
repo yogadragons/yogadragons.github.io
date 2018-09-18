@@ -69,25 +69,49 @@ h5 {
   color: white !important;
 }
 
-.iframe-container {
-  overflow: hidden;
-  padding-top: 56.25%;
-  position: relative;
-}
-
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;
-}
-
 a {
   color: white;
 }
 
 a:hover {
   color: fuchsia;
+}
+
+.btn:hover,
+.btn-larger:hover,
+#download-button:hover {
+  background-color: whitesmoke !important;
+}
+
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+}
+
+input#mce-EMAIL {
+  margin: 0 !important;
+  width: 60%;
+}
+
+/* .connect {
+  display: flex;
+  justify-content: space-between;
+} */
+
+.find-us {
+  color: whitesmoke !important;
+  text-decoration: underline;
+}
+
+.find-us:hover {
+  color: white !important;
+}
+
+.jared {
+  color: whitesmoke !important;
+}
+
+.jared:hover {
+  color: white !important;
 }
