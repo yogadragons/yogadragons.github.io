@@ -89,7 +89,6 @@ a:hover {
 }
 
 #mc_embed_signup {
-  /* background: #fff; */
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
 }
@@ -97,11 +96,6 @@ a:hover {
 input#mce-EMAIL {
   margin: 0 !important;
 }
-
-/* .connect {
-  display: flex;
-  justify-content: space-between;
-} */
 
 .find-us {
   color: whitesmoke !important;
@@ -119,11 +113,6 @@ input#mce-EMAIL {
 .jared:hover {
   color: white !important;
 }
-
-/* footer,
-.page-footer {
-  background-color: silver;
-} */
 
 input {
   color: white;
