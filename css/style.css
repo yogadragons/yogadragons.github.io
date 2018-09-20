@@ -78,6 +78,7 @@ a:hover {
 }
 
 .btn:hover,
+.btn-small:hover,
 .btn-larger:hover,
 #download-button:hover {
   background-color: whitesmoke !important;
@@ -119,3 +120,11 @@ input#mce-EMAIL {
 .page-footer {
   background-color: silver;
 } */
+
+input {
+  color: white;
+}
+.waves-button-input:hover,
+.waves-input-wrapper:hover {
+  color: fuchsia !important;
+}
