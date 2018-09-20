@@ -69,6 +69,10 @@ h5 {
   color: white !important;
 }
 
+.brand-logo {
+  margin-top: 2px;
+}
+
 a {
   color: white;
 }
