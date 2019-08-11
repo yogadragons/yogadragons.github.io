@@ -124,3 +124,7 @@ input {
 .waves-input-wrapper:hover {
   color: fuchsia !important;
 }
+
+.pink-text {
+  color: fuchsia !important;
+}
